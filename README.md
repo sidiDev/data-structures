@@ -9,11 +9,11 @@
 ### Example of Data structures are:
 
 * Arrays
-* Linked lsits
+* Linked lists
 * Stacks
 * Queues
 * Sets
 * Maps
-* binary Trees
+* Binary Trees
 * Heaps
 * Graphs
