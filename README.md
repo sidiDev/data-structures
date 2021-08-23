@@ -1,4 +1,4 @@
-# Data Structures
+# Data Structures in JavaScript
 
 ## Introduction To Data Structures
 
