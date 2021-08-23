@@ -17,3 +17,7 @@
 * Binary Trees
 * Heaps
 * Graphs
+
+> ### The Completed Data Structures Branches:
+
+* [Stacks](https://github.com/sidiDev/data-structures/tree/stacks)
