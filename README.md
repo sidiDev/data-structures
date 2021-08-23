@@ -24,7 +24,7 @@
 
 **Example of Stacks Data structure**
 
-![Stacks Data structure](./src/stack.png)
+![Stacks Data structure](/src/stack.png)
 
 **Three basic operations in the stacks are**:
 
