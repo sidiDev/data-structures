@@ -1,4 +1,4 @@
-### Stacks Data structure
+# Stacks Data structure
 
 *Stack is a linear data structure which follows a praticular order in which the operations are performed . The order may be LIFO ( Last In First Out ) or FILO ( First In Last Out ).*
 
