@@ -20,7 +20,7 @@ export default class Stack {
     pop() {
         // Check if the storage is not empty
         if (!this.isEmpty()) {
-            const topItem = this.size
+            const topItem = this.storage[this.size - 1]
             this.storage.length = this.size - 1
             this.size = this.size - 1
             return topItem
