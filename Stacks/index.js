@@ -1,4 +1,4 @@
-class Stack {
+export default class Stack {
     constructor () {
         // Stack storage
         this.storage = []
@@ -20,9 +20,10 @@ class Stack {
     pop() {
         // Check if the storage is not empty
         if (!this.isEmpty()) {
+            const topItem = this.size
             this.storage.length = this.size - 1
             this.size = this.size - 1
-            return true
+            return topItem
             
         } else return Error('The stack is empty')
     }
@@ -45,6 +46,8 @@ class Stack {
 
 const newStack = new Stack()
 
+/*
+
 // Push items
 newStack.push('1')
 newStack.push('3')
@@ -66,3 +69,5 @@ console.log('Is empty:', newStack.isEmpty()) // Output will be: false
 
 // Return the size of the stack
 console.log('Size:', newStack.size);
+
+*/
