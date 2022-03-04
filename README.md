@@ -13,9 +13,9 @@
 #### data structures are divided into two categories:
 
 
-* **Linear Data Structures**: *A linear data structure has data elements connected to each other so that elements are arranged in a sequential manner and each element is connected to the element in front of it and behind it. This way, the structure can be traversed in a single run. and some examples of linear Data Structures are: Array, Linked list, Stack, Queue*
+* **Linear Data Structures**: *A linear data structure has data elements connected to each other so that elements are arranged in a sequential manner and each element is connected to the element in front of it and behind it. This way, the structure can be traversed in a single run. and some examples of linear Data Structures are: Array, Linked list, Stack, Queue.*
 
-* **Non-linear Data Structures**: *Non-linear data structures, on the other hand, are non-sequential, meaning the information they contain does not need to be ordered one after another. In addition, one element could be connected to two or even more elements, making it unlikely for you to be able to traverse through all of the data in one iteration. Typically, implementing linear data structures tends to be easier than implementing non-linear ones. and some examples of non-linear Data Structures are: Maps, Trees, Graphs,*
+* **Non-linear Data Structures**: *Non-linear data structures, on the other hand, are non-sequential, meaning the information they contain does not need to be ordered one after another. In addition, one element could be connected to two or even more elements, making it unlikely for you to be able to traverse through all of the data in one iteration. Typically, implementing linear data structures tends to be easier than implementing non-linear ones. and some examples of non-linear Data Structures are: Maps, Trees, Graphs.*
 
 ### Example of Data structures are:
 
