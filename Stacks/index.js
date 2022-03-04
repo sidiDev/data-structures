@@ -8,7 +8,6 @@ export default class Stack {
 
     // Add an item in the stack
     push(value) {
-        // Check if the value is exist
         if (value) {
             this.storage.push(value)
             this.size = this.size + 1
@@ -18,7 +17,6 @@ export default class Stack {
 
     // Remove the last item
     pop() {
-        // Check if the storage is not empty
         if (!this.isEmpty()) {
             const topItem = this.storage[this.size - 1]
             this.storage.length = this.size - 1
@@ -30,7 +28,6 @@ export default class Stack {
 
     // Return the top item of stack
     peek() {
-        // Check if the storage is not empty
         if (!this.isEmpty()) return this.storage[this.size - 1]
         else return Error('The stack is empty')
     }
